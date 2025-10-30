@@ -104,19 +104,4 @@ aws cloudformation create-stack \
 
 -------------------------------------------------------------
 
-📸 Evidências (caso tenha prints)
-Crie uma pasta /images
-
-/images
- ├─ stack-created.png
- ├─ cloudformation-events.png
- └─ s3-bucket-console.png
-
--------------------------------------------------------------
-
-🎉 Conclusão
-Esse projeto reforçou conceitos importantes de IaC, automação e boas práticas DevOps na AWS com CloudFormation.
-
-"Infraestrutura como código não é tendência — é o padrão da computação moderna."
-"""
 
